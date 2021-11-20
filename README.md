@@ -1,6 +1,6 @@
-# Biathlon_Notifier
+# Biathlon Notifier
 
-This project collects all biathlon events and sends a notification on Telegram (bot) every time an event starts.
+This project collects all biathlon events from a website that contains different kinds of sports and sends a notification on Telegram (bot) every time an event starts.
 
 ## Instructions
 
