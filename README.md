@@ -1,3 +1,5 @@
+![Unbenannt-2](https://user-images.githubusercontent.com/31436472/142737247-5b1fa6aa-18f1-4a58-a73e-8cba7e4fe4b9.jpg)
+
 # Biathlon Notifier
 
 This project collects all biathlon events from a website that contains different kinds of sports and sends a notification on Telegram (bot) every time an event starts.
