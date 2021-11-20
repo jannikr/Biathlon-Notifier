@@ -11,3 +11,7 @@ This project collects all biathlon events from a website that contains different
 * Change sleep interval suitable to your need: `time.sleep(<seconds>)`
 
 * Run script!
+
+## Credits
+
+Banner Icon: Biathlon by Thanga Vignesh
